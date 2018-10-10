@@ -41,7 +41,7 @@ PasswordGenerator.generate(unique: true, punct: 3, digit: 4)
 
 Upper case characters (if not specified, a mix of lower and upper by default)
 ```
-PasswordGenerator.generate(unique: true, punct: 3, digits: 4, upper: 2)
+PasswordGenerator.generate(unique: true, punct: 3, digit: 4, upper: 2)
 ```
 
 Length (default 20):
